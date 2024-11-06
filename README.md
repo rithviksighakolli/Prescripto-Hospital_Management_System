@@ -34,7 +34,7 @@ Follow these instructions to set up the project locally.
 
 ## Install dependencies
 
-Install server dependencies
+1. **Install server dependencies**
 ```bash
 cd server
 npm install
