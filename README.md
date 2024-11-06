@@ -31,3 +31,37 @@ Follow these instructions to set up the project locally.
    ```bash
    git clone https://github.com/your-username/Prescripto-Hospital_Management_System.git
    cd Prescripto-Hospital_Management_System
+
+Install dependencies
+
+# Install server dependencies
+cd server
+npm install
+
+# Install client dependencies
+cd ../client
+npm install
+Set up environment variables
+In the server directory, create a .env file with the following:
+
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+Run the application
+
+# Start server
+cd server
+npm start
+
+# Start client
+cd ../client
+npm start
+
+Screenshots
+
+Topics
+Hospital Management MERN Stack MongoDB Express.js React Node.js Healthcare App Patient Records Appointments
+
+Contributors
+Rithvik Sighakolli
+License
+This project is licensed under the MIT License.
