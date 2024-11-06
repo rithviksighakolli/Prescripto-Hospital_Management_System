@@ -49,20 +49,23 @@ MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 Run the application
 
-Start server
+Start server:
 
 cd backend
-npm run server
 
-Start Admin Panel
+   npm run server
 
-cd admin
-npm run dev
+Start Admin Panel:
 
-Start Frontend Panel
+   cd admin
 
-cd frontend
-npm run dev
+   npm run dev
+
+Start Frontend Panel:
+
+   cd frontend
+
+   npm run dev
 
 # Topics
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
