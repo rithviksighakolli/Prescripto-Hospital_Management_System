@@ -61,13 +61,13 @@ Start Frontend Panel
 cd frontend
 npm run dev
 
-# Screenshots
+Screenshots
 
-# Topics
+Topics
 Hospital Management MERN Stack MongoDB Express.js React Node.js Healthcare App Patient Records Appointments
 
-# Contributors
+Contributors
 Rithvik Sighakolli
 
-# License
+License
 This project is licensed under the MIT License.
