@@ -34,30 +34,30 @@ Follow these instructions to set up the project locally.
 
 ## Install dependencies
 
-1. **Install server dependencies**
-```bash
-cd server
-npm install
-```
+1. **Install admin dependencies**
+   ```bash
+   cd admin
+   npm install
+   ```
 
-Install client dependencies
-```bash
-cd ../client
-npm install
-```
+2. **Install frontend dependencies**
+   ```bash
+   cd frontend
+   npm install
+   ```
 
-Set up environment variables
-In the server directory, create a .env file with the following:
+3. **Set up environment variables**
+   In the server directory, create a .env file with the following:
 
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-Run the application
+   MONGODB_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+   Run the application
 
-Start server:
-
-cd backend
-
+4. **Start server:**
+   ```bash
+   cd backend
    npm run server
+   ```
 
 Start Admin Panel:
 
