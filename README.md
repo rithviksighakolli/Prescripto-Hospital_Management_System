@@ -50,14 +50,17 @@ JWT_SECRET=your_jwt_secret
 Run the application
 
 Start server
+
 cd backend
 npm run server
 
 Start Admin Panel
+
 cd admin
 npm run dev
 
 Start Frontend Panel
+
 cd frontend
 npm run dev
 
