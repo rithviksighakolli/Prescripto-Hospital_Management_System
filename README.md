@@ -34,35 +34,39 @@ Follow these instructions to set up the project locally.
 
 ## Install dependencies
 
-# Install server dependencies
+Install server dependencies
 cd server
 npm install
 
-# Install client dependencies
+Install client dependencies
 cd ../client
 npm install
 
-# Set up environment variables
+Set up environment variables
 In the server directory, create a .env file with the following:
 
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 Run the application
 
-# Start server
-cd server
-npm start
+Start server
+cd backend
+npm run server
 
-# Start client
-cd ../client
-npm start
+Start Admin Panel
+cd admin
+npm run dev
 
-Screenshots
+Start Frontend Panel
+cd frontend
+npm run dev
 
-## Topics
+# Screenshots
+
+# Topics
 Hospital Management MERN Stack MongoDB Express.js React Node.js Healthcare App Patient Records Appointments
 
-## Contributors
+# Contributors
 Rithvik Sighakolli
 
 # License
