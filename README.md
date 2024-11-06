@@ -60,16 +60,16 @@ Follow these instructions to set up the project locally.
    ```
 
 Start Admin Panel:
-
+   ```bash
    cd admin
-
    npm run dev
+   ```
 
 Start Frontend Panel:
-
+   ```bash
    cd frontend
-
    npm run dev
+   ```
 
 # Topics
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
