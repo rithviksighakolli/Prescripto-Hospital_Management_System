@@ -35,12 +35,16 @@ Follow these instructions to set up the project locally.
 ## Install dependencies
 
 Install server dependencies
+```bash
 cd server
 npm install
+```
 
 Install client dependencies
+```bash
 cd ../client
 npm install
+```
 
 Set up environment variables
 In the server directory, create a .env file with the following:
