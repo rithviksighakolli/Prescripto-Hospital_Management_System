@@ -75,7 +75,10 @@ Follow these instructions to set up the project locally.
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
 
 # Contributors
-Rithvik Sighakolli
+Rithvik Sighakolli [Github](https://github.com/rithviksighakolli)
+
+# Contact
+For any questions or feedback, please contact [Rithvik Sighakolli](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLdXhmkgwVNdVxlKMVGdjhjxJTzgSsdkdVZdtWgrnhHsRXcxcMlSVxjWjwVvNTQxZDgHxM)
 
 # License
 This project is licensed under the MIT License.
