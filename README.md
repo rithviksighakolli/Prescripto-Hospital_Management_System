@@ -59,13 +59,13 @@ Follow these instructions to set up the project locally.
    npm run server
    ```
 
-Start Admin Panel:
+5. **Start Admin Panel:**
    ```bash
    cd admin
    npm run dev
    ```
 
-Start Frontend Panel:
+6. **Start Frontend Panel:**
    ```bash
    cd frontend
    npm run dev
