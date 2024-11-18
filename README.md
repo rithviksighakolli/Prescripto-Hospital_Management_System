@@ -77,6 +77,10 @@ Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare
 # Contributors
 Rithvik Sighakolli [Github](https://github.com/rithviksighakolli)
 
+# Deployment Links
+[Prescripto Patient Panel]{https://prescripto-hospital-management-system-2dlr.onrender.com}
+[[Prescripto Admin/Doctor Panel]{https://prescripto-hospital-management-system-2dlr.onrender.com}](https://prescripto-hospital-management-system-dmls.onrender.com)
+
 # Contact
 For any questions or feedback, please contact [Rithvik Sighakolli](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGLdXhmkgwVNdVxlKMVGdjhjxJTzgSsdkdVZdtWgrnhHsRXcxcMlSVxjWjwVvNTQxZDgHxM)
 
