@@ -79,6 +79,7 @@ Rithvik Sighakolli [Github](https://github.com/rithviksighakolli)
 
 # Deployment Links
 [Prescripto Patient Panel](https://prescripto-hospital-management-system-2dlr.onrender.com)
+
 [Prescripto Admin/Doctor Panel](https://prescripto-hospital-management-system-dmls.onrender.com)
 
 # Contact
